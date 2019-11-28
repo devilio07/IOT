@@ -1,0 +1,7 @@
+API="bcadb7f8-5551-4e20-a2e5-7087e49cec22"
+ID="BOLT1349612"
+CHAT_ID="@temp_alert_max"
+BOT_ID="bot863969821:AAEMKgiFAR7IT-7mNq_21z0lDoFOJ45UFrc"
+
+threshold=280
+
